@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.vscode/
+env/
+pcg_matlab_python/
+pcg/
