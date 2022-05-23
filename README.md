@@ -9,7 +9,7 @@
 
 ## Ссылки
 
-*Проектная документация:*<br> ...
+*Проектная документация:*<br> <https://github.com/dgarkaev/smart-heart/wiki>
 
 *Группа разработки в Telegram:* <br> <https://t.me/+EaJswQ31kEI4OTNi>
 
