@@ -2,13 +2,13 @@
 Автоматический анализ фонокардиограммы (ФКГ) с целью раннего выявления патологий ССС.
 
 ## Зависимости
-* Redis server >= 6.0
+* Redis server >= 6.x
 * Python == 3.9.xx
 * Matlab Runtime == 2022a v912
 
 ## Ссылки
 
-*Проектная документация:*<br> <http://z96188hl.beget.tech/projects/smartheart>
+*Проектная документация:*<br> ...
 
 *Группа разработки в Telegram:* <br> <https://t.me/+EaJswQ31kEI4OTNi>
 
