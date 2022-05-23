@@ -5,6 +5,7 @@
 * Redis server >= 6.x
 * Python == 3.9.xx
 * Matlab Runtime == 2022a v912
+* ffmpeg
 
 ## Ссылки
 
